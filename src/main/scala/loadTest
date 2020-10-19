@@ -1,0 +1,16 @@
+500 requests
+2020-10-18 21:53:33,715
+2020-10-18 21:53:34,878  ~ 1163 milliseconds
+
+
+
+
+
+
+1000 requests
+2020-10-18 22:01:00,672
+2020-10-18 22:01:02,750  ~ 2078 milliseconds
+
+1000 requests / pagero ExecutionContext
+2020-10-18 22:16:44,637
+2020-10-18 22:16:47,127  ~ 2490 milliseconds
